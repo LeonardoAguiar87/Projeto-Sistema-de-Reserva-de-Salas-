@@ -1,0 +1,2 @@
+No SQL foi inserido Usuários e Salas predefinidos, para 
+realização do teste, porém o reserva é feita pelo Main.Java.
