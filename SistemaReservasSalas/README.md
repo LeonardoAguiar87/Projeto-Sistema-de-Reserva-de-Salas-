@@ -180,7 +180,7 @@ Inclui Forums e comunidades como Redit e StackOverflow.
 
 ###### Em seguida, partiu-se para a criação do modelo físico de dados, derivado diretamente do diagrama de classes. Com base nesse modelo, foi gerado o script SQL necessário para a implementação do banco de dados.
 
-###### Conforme o desenvolvimento avançava — especialmente durante a codificação em Java —, ajustes pontuais foram realizados no script SQL, garantindo maior precisão e alinhamento com as necessidades da aplicação.
+###### Conforme o desenvolvimento avançava especialmente durante a codificação em Java, ajustes pontuais foram realizados no script SQL, garantindo maior precisão e alinhamento com as necessidades da aplicação.
 
 ###### Por fim, dedicou-se à integração do projeto como um todo e à documentação final, assegurando que todas as etapas estivessem devidamente registradas e organizadas.
 
