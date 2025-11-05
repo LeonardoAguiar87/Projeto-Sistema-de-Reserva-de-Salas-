@@ -72,8 +72,18 @@ SistemaReservasSalas/
 - Executar script de criação das tabelas
 
 2. Compilar Projeto:
+- Opção 1: Compilar Arquivo por Arquivo (Mais Segura)
 
-        javac -d bin src/com/reunipe/**/*.java                              
+        javac -d bin src/com/reunipe/main/Main.java
+        javac -d bin src/com/reunipe/model/*.java
+        javac -d bin src/com/reunipe/dao/*.java
+        javac -d bin src/com/reunipe/enums/*.java
+        javac -d bin src/com/reunipe/database/*.java
+
+  - Opção 2: Usar Wildcard Simples:
+  
+          javac -d bin src/com/reunipe/main/*.java src/com/reunipe/model/*.java src/com/reunipe/dao/*.java src/com/reunipe/enums/*.java src/com/reunipe/database/*.java
+                            
 
 se por acaso você for utilizar outra senha diferente de "root"
 não se esqueça de modificar no código conexãoBD, e em 
