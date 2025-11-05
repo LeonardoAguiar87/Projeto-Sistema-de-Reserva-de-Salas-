@@ -74,7 +74,7 @@ SistemaReservasSalas/
 2. Compilar Projeto:
 - Opção 1: Compilar Arquivo por Arquivo (Mais Segura)
   #### vá para pasta do sistema:
-        cd C:\Users\Leonardo\Desktop\ReuniPE\SistemaReservasSalas
+        cd C:\Users\Digite o nome da sua conta local\Desktop\ReuniPE\SistemaReservasSalas
 
   #### compile todos os arquivo em um só comando:
         javac -d bin ^
